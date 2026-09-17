@@ -1,4 +1,4 @@
-<h1>¡Hola! Soy Juan Miguel Carrión </h1>
+<h1>¡Hola! Soy Juan Miguel Carrión 🧑‍💻</h1>
 
 <h3>🚀 Desarrollador Backend Junior (DAM)</h3>
 
