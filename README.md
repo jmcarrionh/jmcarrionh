@@ -47,11 +47,9 @@
 
 <h3>📫 Conectemos</h3>
 
+<h3>📫 Conectemos</h3>
+
 <ul>
-  <li>
-    <a href="https://www.linkedin.com/in/juan-miguel-carri%C3%B3n-hidalgo-235804437/">
-      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18" alt="LinkedIn"/> LinkedIn
-    </a>
-  </li>
+  <li>💼 <a href="https://www.linkedin.com/in/juan-miguel-carri%C3%B3n-hidalgo-235804437/">LinkedIn</a></li>
   <li>✉️ <a href="mailto:jcarrionhidalgo@gmail.com">Email</a></li>
 </ul>
