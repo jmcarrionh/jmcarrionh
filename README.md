@@ -25,7 +25,7 @@
 
 <hr>
 
-<h3>💡Cómo trabajo</h3>
+<h3>💡 Cómo trabajo</h3>
 
 <ul>
   <li><b>Capacidad de aprendizaje:</b> interés por seguir creciendo y adquiriendo nuevos conocimientos.</li>
