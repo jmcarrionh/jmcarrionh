@@ -9,11 +9,11 @@
 <h3>🛠️ Mi stack técnico</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/-JAVA-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/-PYTHON-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/-DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/-ODOO-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
+  <img src="https://skillicons.dev/icons?i=java" width="45" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="45" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="45" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=odoo" width="45" alt="Odoo"/>
 </p>
 
 <ul>
